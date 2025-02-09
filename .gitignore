@@ -5,6 +5,9 @@ build/
 out/
 classes/
 
+# exe files
+*.exe
+
 # eclipse
 
 *.launch
